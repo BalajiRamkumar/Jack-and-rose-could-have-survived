@@ -9,4 +9,4 @@ B. Objective
 Build a predictive model that answers the question: “What sorts of people were more likely to survive?”
 The project explores s 4 methods (Naïve Bayes, Logistic Regression, kNN and Decision Trees), and identifies the best method.
 
-Modified variables and the whole process is explained in the file - 
+Modified variables and the whole process is explained in the file - "Classifiers-git.pdf"
